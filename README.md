@@ -30,7 +30,8 @@ Highly motivated and detail-oriented computer technology professional with excep
 ---
 
 ## 🏆 Certifications 
-
+| Certification |
+|---|
 | Certification 
 | CompTIA A+ 
 | CompTIA Network+ 
