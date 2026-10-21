@@ -40,7 +40,7 @@ Highly motivated and detail-oriented computer technology professional with excep
 ---
 
 ## 🏆 Certifications 
-| Certification |
+| Certifications |
 |---|
 | Certification 
 | CompTIA A+ 
