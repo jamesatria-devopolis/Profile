@@ -9,9 +9,9 @@
 
 **James V Atria**
 
-*IT Professional*
+*IT Professional, IT Instructor, Geek among Geeks! 
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesatria/) [![GITHUB](https://img.shields.io/badge/GITHUB-%40jamesatria-devopolis-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamesatria-devopolis) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james.atria@mycomputercareer.edu)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesatria/) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james.atria@mycomputercareer.edu)
 
 </div>
 
