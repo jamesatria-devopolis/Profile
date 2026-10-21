@@ -33,58 +33,26 @@ Highly motivated and detail-oriented computer technology professional with excep
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
-| CompTIA A+ |  | [Verify](https://www.credly.com/badges/7f8b802f-cfb6-4f03-a060-7699a86f0a86/public_url) | ![](https://www.credly.com/badges/7f8b802f-cfb6-4f03-a060-7699a86f0a86/public_url) |
-| CompTIA Network+ |  | — | — |
-| CompTIA Security+ |  | — | — |
-| CompTIA Server+ |  | — | — |
+| CompTIA A+ 
+| CompTIA Network+ 
+| CompTIA Security+ 
+| CompTIA Server+ 
+| CompTIA CompTIA IT Operations Specialist – CIOS Stackable Certification
+| CompTIA Network Infrastructure Professional – CNIP Stackable Certification
+| CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification
+| Microsoft Certified: AI Business Professional
+| MTA: Security 
+| MTA: Cloud 
+| MTA: Networking 
+| MTA: Server 
+| MTA: Operating Systems
+
+
+
 
 ---
 
-## Course Portfolio
 
-<details>
-<summary><strong>Course 1: Networking I</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 3: Operating Systems I</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 4: Security I</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 5: Server I</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
-<details>
-<summary><strong>Course 6: Networking & Security I</strong></summary>
-
-*No labs added yet.*
-
-</details>
-
----
 
 <div align="center">
 <sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
