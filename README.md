@@ -29,10 +29,9 @@ Highly motivated and detail-oriented computer technology professional with excep
 
 ---
 
-## 🏆 Certifications & Digital Badges
+## 🏆 Certifications 
 
-| Certification | Issuer | Verify | Badge |
-|---|---|---|---|
+| Certification 
 | CompTIA A+ 
 | CompTIA Network+ 
 | CompTIA Security+ 
