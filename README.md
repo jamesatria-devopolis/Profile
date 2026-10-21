@@ -5,9 +5,13 @@
 
 <img src="https://github.com/jamesatria-devopolis.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm James V Atria
+# Greetings and Salutations
 
 **James V Atria**
+
+Senior Live Online Lead Instructor
+
+2x Instructor of the year '21 & '24
 
 IT Professional, IT Instructor, Geek among Geeks! 
 
