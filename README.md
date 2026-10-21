@@ -19,7 +19,8 @@ IT Professional, IT Instructor, Geek among Geeks!
 
 ## Professional Summary
 
-Highly motivated and detail-oriented computer technology professional with exceptional analytical, technical and problem solving skills and superior verbal, written and interpersonal communication skills.  Extremely industrious, responsible and punctual with an excellent record of managing multiple projects and shifting priorities among customers.  Consistently reliable with a high rate of customer satisfaction and proven expertise in technical support including diagnosing and troubleshooting hardware and software problems.  Demonstrated ability to rapidly acquire and utilize new skills and co
+Highly motivated and detail-oriented computer technology professional with exceptional analytical, technical and problem solving skills and superior verbal, written and interpersonal communication skills.  Extremely industrious, responsible and punctual with an excellent record of managing multiple projects and shifting priorities among customers.  Consistently reliable with a high rate of customer satisfaction and proven expertise in technical support including diagnosing and troubleshooting hardware and software problems.  Demonstrated ability to rapidly acquire and utilize new skills and complete tasks with minimal instructions.  Strong skills training and coordinating personnel.
+
 
 ---
 
@@ -63,6 +64,4 @@ Highly motivated and detail-oriented computer technology professional with excep
 
 
 
-<div align="center">
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
-</div>
+
