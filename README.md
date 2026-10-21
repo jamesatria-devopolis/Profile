@@ -9,7 +9,7 @@
 
 **James V Atria**
 
-*IT Professional, IT Instructor, Geek among Geeks! 
+IT Professional, IT Instructor, Geek among Geeks! 
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesatria/) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:james.atria@mycomputercareer.edu)
 
